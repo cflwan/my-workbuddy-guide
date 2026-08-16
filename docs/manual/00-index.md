@@ -50,7 +50,7 @@ permalink: "/manual/"
 - **本指南**：大白话 + 实战场景，帮你快速上手和理解，
   但不替代官方文档的完整性
 
-建议：先看本指南的 [快速上手](../guide/00-index.md)
+建议：先看本指南的 [快速上手](../start/00-index.md)
 和 [案例库](../recipes/00-index.md) 建立直觉，
 具体能力边界和参数查官方文档。
 
@@ -65,5 +65,5 @@ permalink: "/manual/"
 
 - 看完手册不知道干啥？去 [案例库](../recipes/00-index.md)
   找个场景照着做
-- 想快速了解 WorkBuddy？看 [快速上手](../guide/00-index.md)
+- 想快速了解 WorkBuddy？看 [快速上手](../start/00-index.md)
 - 想知道有哪些功能？看 [功能总览](../features/00-index.md)

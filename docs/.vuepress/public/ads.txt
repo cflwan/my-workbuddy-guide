@@ -1,0 +1,2 @@
+# AdSense 接入后替换 pub-XXXXXXXXXXXXXXXX 为你的发布商ID
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

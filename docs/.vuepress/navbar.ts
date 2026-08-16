@@ -7,4 +7,5 @@ export default navbar([
   { text: "功能详解", icon: "book", link: "/features/" },
   { text: "实战案例", icon: "lightbulb", link: "/recipes/" },
   { text: "参考手册", icon: "gear", link: "/manual/" },
+  { text: "关于", icon: "info", link: "/contact.html" },
 ]);

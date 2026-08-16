@@ -9,7 +9,7 @@
   },
   "scripts": {
     "dev": "vuepress dev docs --host 0.0.0.0",
-    "build": "vuepress build docs",
+    "build": "node scripts/generate-llms.mjs && vuepress build docs",
     "clean": "rm -rf docs/.vuepress/.cache docs/.vuepress/.temp docs/.vuepress/dist"
   },
   "devDependencies": {

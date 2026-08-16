@@ -1,0 +1,57 @@
+# WorkBuddy 大白话指南
+
+> 用大白话讲明白腾讯 WorkBuddy 怎么用：快速上手、功能详解、实战案例，一个普通开发者的学习笔记。
+
+ Topics: WorkBuddy 教程, WorkBuddy 怎么用, AI 办公, 腾讯 WorkBuddy, WorkBuddy 指南
+
+Site URL: https://my-workbuddy-guide.pages.dev
+
+## 页面清单
+
+### 首页
+
+- [WorkBuddy 大白话指南](https://my-workbuddy-guide.pages.dev/)：用大白话讲明白 WorkBuddy 怎么用，不整那些虚的。
+
+### 学习路线
+
+- [学习路线](https://my-workbuddy-guide.pages.dev/guide/)：学习路线 - 告诉你先看什么后看什么
+
+### 快速上手
+
+- [快速上手](https://my-workbuddy-guide.pages.dev/start/00-index)：快速上手 - 从零开始用 WorkBuddy
+- [WorkBuddy 是什么](https://my-workbuddy-guide.pages.dev/start/01-what-is-workbuddy)：WorkBuddy 是什么 - 大白话解释
+- [下载安装](https://my-workbuddy-guide.pages.dev/start/02-installation)：下载安装 WorkBuddy
+- [跑第一个任务](https://my-workbuddy-guide.pages.dev/start/03-first-task)：第一个任务 - 手把手教你让 WorkBuddy 干第一件活
+- [认识界面](https://my-workbuddy-guide.pages.dev/start/04-interface)：认识 WorkBuddy 界面
+- [创建任务](https://my-workbuddy-guide.pages.dev/start/05-create-task)：创建任务 - 怎么给 WorkBuddy 下任务
+- [对话和追问](https://my-workbuddy-guide.pages.dev/start/06-conversation)：对话和追问 - 跟 WorkBuddy 持续交流
+- [查看结果](https://my-workbuddy-guide.pages.dev/start/07-results)：查看结果 - 检查 WorkBuddy 干的活
+- [任务管理](https://my-workbuddy-guide.pages.dev/start/08-task-management)：任务管理 - 管理你的任务列表
+
+### 功能详解
+
+- [功能详解](https://my-workbuddy-guide.pages.dev/features/00-index)：功能详解 - WorkBuddy 的高级功能
+- [连接器（Connectors）](https://my-workbuddy-guide.pages.dev/features/01-connectors)：连接器 - 让 WorkBuddy 连接外部服务
+- [专家（Experts）](https://my-workbuddy-guide.pages.dev/features/02-experts)：专家 - 专业角色加持
+- [技能（Skills）](https://my-workbuddy-guide.pages.dev/features/03-skills)：技能 - 可复用的任务流程
+- [自动化（Automations）](https://my-workbuddy-guide.pages.dev/features/04-automations)：自动化 - 定时帮你干活
+- [MCP 配置](https://my-workbuddy-guide.pages.dev/features/05-mcp)：MCP 配置 - 接入更多外部工具
+- [记忆系统](https://my-workbuddy-guide.pages.dev/features/06-memory)：记忆系统 - 让 AI 记住你
+- [文件访问](https://my-workbuddy-guide.pages.dev/features/07-file-access)：文件访问 - 操作本地文件
+- [分享功能](https://my-workbuddy-guide.pages.dev/features/08-sharing)：分享功能 - 分享你的成果
+
+### 实战案例
+
+- [实战案例库](https://my-workbuddy-guide.pages.dev/recipes/00-index)：实战案例库 - 看看别人怎么用 WorkBuddy 干活
+- [写周报/工作报告](https://my-workbuddy-guide.pages.dev/recipes/01-write-report)：用 WorkBuddy 写工作报告
+- [数据分析](https://my-workbuddy-guide.pages.dev/recipes/02-data-analysis)：用 WorkBuddy 做数据分析
+- [做 PPT](https://my-workbuddy-guide.pages.dev/recipes/03-make-ppt)：用 WorkBuddy 做 PPT 演示文稿
+- [深度研究](https://my-workbuddy-guide.pages.dev/recipes/04-deep-research)：用 WorkBuddy 做深度研究
+- [批量文件处理](https://my-workbuddy-guide.pages.dev/recipes/05-batch-files)：用 WorkBuddy 批量处理文件
+- [写代码/建网站](https://my-workbuddy-guide.pages.dev/recipes/06-write-code)：用 WorkBuddy 写代码和建网站
+- [设计（Logo/海报/原型）](https://my-workbuddy-guide.pages.dev/recipes/07-design)：用 WorkBuddy 做设计
+- [写邮件/周报](https://my-workbuddy-guide.pages.dev/recipes/08-email)：用 WorkBuddy 写邮件和周报
+
+### 参考手册
+
+- [参考手册](https://my-workbuddy-guide.pages.dev/manual/00-index)：参考手册 - 官方资料链接汇总

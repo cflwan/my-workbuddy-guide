@@ -4,6 +4,8 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar/index.js";
 
 export default hopeTheme({
+  hostname: "https://my-workbuddy-guide.pages.dev",
+
   logo: "/logo.svg",
 
   author: {
@@ -37,10 +39,13 @@ export default hopeTheme({
     mark: true,
     tasklist: true,
     tabs: true,
+    linksCheck: true,
   },
 
   plugins: {
     copyCode: true,
+    sitemap: true,
+    seo: true,
     copyright: {
       author: "WorkBuddy 大白话指南",
       license: "MIT",
