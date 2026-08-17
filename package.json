@@ -10,6 +10,7 @@
   "scripts": {
     "dev": "vuepress dev docs --host 0.0.0.0",
     "build": "node scripts/generate-llms.mjs && vuepress build docs",
+    "deploy": "npm run build && npx wrangler deploy",
     "clean": "rm -rf docs/.vuepress/.cache docs/.vuepress/.temp docs/.vuepress/dist"
   },
   "devDependencies": {
